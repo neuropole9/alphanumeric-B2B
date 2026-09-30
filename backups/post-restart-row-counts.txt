@@ -1,0 +1,16 @@
+buildings|2
+categories|10
+customers|6
+floors|5
+inquiries|9
+invoices|1
+orders|1
+product_families|11
+product_media|12
+product_price_history|25
+products|13
+projects|8
+quotations|1
+room_products|26
+rooms|17
+users|2

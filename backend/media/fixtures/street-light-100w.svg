@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F8FBFF"/><stop offset="1" stop-color="#DDE9F6"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="20" stdDeviation="24" flood-opacity=".18"/></filter></defs>
+<rect width="1200" height="900" fill="url(#bg)"/><circle cx="600" cy="410" r="270" fill="#E08B16" opacity=".10"/>
+<g filter="url(#s)"><rect x="300" y="245" width="600" height="330" rx="38" fill="#FFFFFF" stroke="#E08B16" stroke-width="14"/><rect x="350" y="295" width="500" height="230" rx="24" fill="#E08B16" opacity=".18"/><circle cx="600" cy="410" r="72" fill="#E08B16" opacity=".8"/></g>
+<text x="600" y="700" text-anchor="middle" font-family="Arial, sans-serif" font-size="54" font-weight="700" fill="#123452">Street Light 100W</text>
+<text x="600" y="758" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" fill="#5E7792">AlphaNumeric test fixture catalogue image</text>
+</svg>
